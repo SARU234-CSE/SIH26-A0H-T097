@@ -34,7 +34,7 @@
 * **Problem Statement ID: SIH26051**
 * **Problem Statement Title:Software Based Model Development for Design of Area Specific Shelter for Thermal Comfort Maintenance.**
 * **Theme / Category: Miscellaneous / Software**
-* **Ministry / Organization: DRDO**, wherever applicable
+* **Ministry / Organization: DRDO**
 
 #### PS#2
 
